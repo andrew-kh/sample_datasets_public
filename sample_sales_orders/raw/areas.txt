@@ -1,0 +1,21 @@
+sales_area_id	sales_area_name	sales_region names
+1	Aldermont Area	Nexus North
+2	Bramshire Area	Nexus North
+3	Caleford Area	Nexus North
+4	Darnleigh Area	Nexus North
+5	Edgemoor Area	Nexus North
+6	Fairholm Area	Nexus North
+7	Glastonford Area	Nexus North
+8	Hearthford Area	Midlandia
+9	Inverholm Area	Midlandia
+10	Kestlebury Area	Midlandia
+11	Langstonia Area	Midlandia
+12	Moorhaven Area	Eastmark
+13	Netherton Area	Eastmark
+14	Oakleigh Area	Eastmark
+15	Pridemore Area	Eastmark
+16	Quainton Area	Eastmark
+17	Ridgemoor Area	Eastmark
+18	Sunningdale Area	Eastmark
+19	Torchester Area	Eastmark
+20	Welfordia Area	Eastmark

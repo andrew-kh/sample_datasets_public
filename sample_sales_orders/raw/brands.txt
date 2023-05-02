@@ -1,0 +1,6 @@
+brand_id	brand_name
+1	Nourish Naturals
+2	Bliss Bites
+3	Pure Delight
+4	Savory Selects
+5	Fresh Fusion

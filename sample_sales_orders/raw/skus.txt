@@ -1,0 +1,30 @@
+sku_id	sku_name	brand_id	weight_netto
+NN-01	NutriBlend Protein Powder	1	500
+NN-02	Daily Essentials Multivitamin Capsules	1	20
+NN-03	Antioxidant Rich Green Tea Extract Capsules	1	25
+NN-04	Organic Chia Seeds	1	40
+NN-05	Superfood Trail Mix	1	20
+NN-06	High-Fiber Granola Bars	1	50
+NN-07	Omega-3 Rich Fish Oil Capsules	1	20
+BB-01	Chocolate Almond Energy Bites	2	70
+BB-02	Coconut Cashew Bliss Bites	2	70
+BB-03	Peanut Butter and Jelly Protein Bites	2	100
+PD-01	Organic Raw Honey	3	750
+PD-02	All-Natural Peanut Butter	3	300
+PD-03	Superfood Smoothie Mix	3	300
+PD-04	Vegan Protein Powder	3	1000
+PD-05	Gluten-Free Granola	3	450
+PD-06	Organic Coconut Oil	3	300
+PD-07	Herbal Detox Tea	3	200
+PD-08	Immunity-Boosting Elderberry Syrup	3	300
+SS-01	Gourmet Spice Blend	4	50
+SS-02	Artisanal Olive Oil	4	900
+SS-03	Truffle-Infused Balsamic Vinegar	4	300
+SS-04	Garlic and Herb Marinade	4	500
+SS-05	Authentic Pasta Sauce	4	500
+FF-01	Fresh Pressed Green Juice	5	1000
+FF-02	Immunity-Boosting Smoothie Pack	5	1000
+FF-03	Probiotic Yogurt Parfait	5	100
+FF-04	Acai Berry Bowl Kit	5	250
+FF-05	Mango Ginger Kombucha	5	330
+FF-06	Chia Pudding Snack Pack	5	200
