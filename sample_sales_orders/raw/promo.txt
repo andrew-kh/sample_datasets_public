@@ -1,0 +1,18 @@
+promo_id	promo_start_date	promo_end_date	brand_id	promo_campaign	discount
+426	14.02.2020	05.03.2020	1	Valentine's Day Delights: Nourish Naturals	0,1
+453	17.03.2020	05.04.2020	2	St. Patrick's Day Specials: Bliss Bites	0,1
+446	22.04.2020	10.05.2020	3	Earth Week Celebration: Pure Delight	0,05
+428	25.05.2020	12.06.2020	4	Memorial Day Weekend Promotion: Savory Selects	0,1
+433	04.07.2020	22.07.2020	5	Red, White, and Blue Sale: Fresh Fusion	0,05
+381	15.08.2020	02.09.2020	1	Back to School Boost: Nourish Naturals	0,15
+404	21.09.2020	10.10.2020	2	Autumn Flavors: Bliss Bites	0,15
+398	01.01.2021	20.01.2021	1	New Year, New You Sale: Nourish Naturals	0,1
+451	14.02.2021	05.03.2021	2	Valentine's Day Treats: Bliss Bites	0,2
+426	17.03.2021	05.04.2021	3	St. Patrick's Day Specials: Pure Delight	0,2
+406	22.04.2021	12.05.2021	4	Earth Day Sale: Savory Selects	0,1
+428	28.05.2021	16.06.2021	5	Memorial Day Weekend Promotion: Fresh Fusion	0,25
+382	04.07.2021	23.07.2021	1	Red, White, and Blue Sale: Nourish Naturals	0,05
+449	15.08.2021	04.09.2021	2	Back to School Fuel: Bliss Bites	0,25
+380	22.09.2021	12.10.2021	3	Fall Harvest Deals: Pure Delight	0,15
+380	11.11.2021	30.11.2021	4	Veterans Day Sale: Savory Selects	0,2
+432	01.12.2021	20.12.2021	5	Holiday Gift Sets: Fresh Fusion	0,15
